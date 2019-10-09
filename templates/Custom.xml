@@ -1,0 +1,12 @@
+<templateSet group="Custom">
+  <template name="tomcat7" value="&lt;plugin&gt;&#10;    &lt;groupId&gt;org.apache.tomcat.maven&lt;/groupId&gt;&#10;    &lt;artifactId&gt;tomcat7-maven-plugin&lt;/artifactId&gt;&#10;    &lt;version&gt;2.2&lt;/version&gt;&#10;    &lt;configuration&gt;&#10;        &lt;port&gt;8080&lt;/port&gt;&#10;        &lt;path&gt;/maven_web&lt;/path&gt;&#10;        &lt;update&gt;true&lt;/update&gt;&#10;        &lt;url&gt;http://localhost:8080/maven_web/&lt;/url&gt;&#10;        &lt;server&gt;tomcat&lt;/server&gt;&#10;    &lt;/configuration&gt;&#10;&lt;/plugin&gt;" description="tomcat7 模板" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="jdk1.8" value=" &lt;plugin&gt;&#10;                    &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;                    &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;                    &lt;configuration&gt;&#10;                        &lt;encoding&gt;utf-8&lt;/encoding&gt;&#10;                        &lt;target&gt;1.8&lt;/target&gt;&#10;                        &lt;source&gt;1.8&lt;/source&gt;&#10;                    &lt;/configuration&gt;&#10;                &lt;/plugin&gt;               " toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
