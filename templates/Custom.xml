@@ -4,7 +4,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="jdk1.8" value=" &lt;plugin&gt;&#10;                    &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;                    &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;                    &lt;configuration&gt;&#10;                        &lt;encoding&gt;utf-8&lt;/encoding&gt;&#10;                        &lt;target&gt;1.8&lt;/target&gt;&#10;                        &lt;source&gt;1.8&lt;/source&gt;&#10;                    &lt;/configuration&gt;&#10;                &lt;/plugin&gt;               " toReformat="false" toShortenFQNames="true">
+  <template name="jdk1.8" value=" &lt;plugin&gt;&#10;                    &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;                    &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;                    &lt;configuration&gt;&#10;                        &lt;encoding&gt;utf-8&lt;/encoding&gt;&#10;                        &lt;target&gt;1.8&lt;/target&gt;&#10;                        &lt;source&gt;1.8&lt;/source&gt;&#10;                    &lt;/configuration&gt;&#10;                &lt;/plugin&gt;               " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
