@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Unknown DataSource property: passowrd" />
+      <item value="user" />
       <item value="Sql Session" />
       <item value="替换" />
       <item value="field" />
@@ -10,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
