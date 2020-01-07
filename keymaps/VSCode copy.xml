@@ -1,1 +1,16 @@
-<keymap version="1" name="VSCode copy" parent="VSCode" />
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="ActivateDebugToolWindow" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
