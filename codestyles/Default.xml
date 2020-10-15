@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <codeStyleSettings language="Dart">
+    <option name="RIGHT_MARGIN" value="320" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
