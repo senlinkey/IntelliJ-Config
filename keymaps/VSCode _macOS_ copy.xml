@@ -1,6 +1,10 @@
 <keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
   <action id="ActivateDebugToolWindow" />
+  <action id="Dart.DartStyle">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
