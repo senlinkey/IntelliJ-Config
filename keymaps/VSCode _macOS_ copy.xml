@@ -6,5 +6,6 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorSelectLine" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
