@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="520" />
+    <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item." />
+      <item value="Code With Me is a new service created by JetBrains for collaborative development and pair programming. It enables you to share the currently opened project in your IDE with others, and work on it together in real time.&#10;Key features:" />
       <item value="value" />
       <item value="_radio" />
       <item value="测试" />
@@ -22,6 +26,9 @@
         <entry key="ENGLISH" value="12" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1609338450200" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
