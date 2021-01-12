@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="non constant identifier names" />
+      <item value="non constant identifier_names" />
+      <item value="non constant_identifier_names" />
+      <item value="non_constant_identifier_names" />
       <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item." />
       <item value="Code With Me is a new service created by JetBrains for collaborative development and pair programming. It enables you to share the currently opened project in your IDE with others, and work on it together in real time.&#10;Key features:" />
       <item value="value" />
@@ -28,10 +32,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609338450200" />
+    <option name="lastTrimTime" value="1610457738882" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5959d96e40ce0079" />
