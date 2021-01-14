@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="thumbnai Url" />
       <item value="non constant identifier names" />
       <item value="non constant identifier_names" />
       <item value="non constant_identifier_names" />
@@ -26,8 +27,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
