@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="Try updating your pubspec.yaml to set the minimum SDK constraint to 2.10.0 or higher, and running 'pub get'." />
       <item value="thumbnai Url" />
       <item value="non constant identifier names" />
       <item value="non constant identifier_names" />
@@ -34,7 +35,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610457738882" />
+    <option name="lastTrimTime" value="1611027119398" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
