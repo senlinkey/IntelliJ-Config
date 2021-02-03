@@ -7,5 +7,8 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorSelectLine" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
