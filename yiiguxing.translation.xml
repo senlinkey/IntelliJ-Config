@@ -2,7 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="2340" />
     <option name="newTranslationDialogY" value="491" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="discount amount" />
+      <item value="discount amount&#10;" />
+      <item value="discount_amount" />
       <item value="cleanerable" />
       <item value="无效" />
       <item value="loose-equality operator" />
@@ -32,8 +36,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="ESPERANTO" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
@@ -42,6 +47,12 @@
     <option name="lastTrimTime" value="1621398567900" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5959d96e40ce0079" />
