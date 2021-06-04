@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code" />
@@ -14,6 +18,9 @@
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="3" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="ts.type.hints" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
