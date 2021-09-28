@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="528" />
     <option name="newTranslationDialogY" value="401" />
     <histories>
+      <item value="文字" />
       <item value="restore" />
       <item value="single Quote" />
       <item value="singleQuote" />
@@ -42,8 +43,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="13" />
-        <entry key="ESPERANTO" value="4" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="ESPERANTO" value="9" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
