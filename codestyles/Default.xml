@@ -1,8 +1,5 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="500" />
-  <VueCodeStyleSettings>
-    <option name="UNIFORM_INDENT" value="false" />
-  </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
