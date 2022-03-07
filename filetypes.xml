@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="10_big_int_sum" type="AUTO_DETECTED" />
+      <removed_mapping ext="ejs" type="EJS" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ejs" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
