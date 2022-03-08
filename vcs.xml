@@ -1,0 +1,36 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.linkyoyo.com:81" />
+          <option name="userName" value="binkswine" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.linkyoyo.com.cn" />
+          <option name="userName" value="binkswine" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.linkyoyo.com.cn:443" />
+          <option name="userName" value="binkswine" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.nlsaas.com" />
+          <option name="userName" value="hongsenlin" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="PREFER_COMMIT_DATE" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+</application>
