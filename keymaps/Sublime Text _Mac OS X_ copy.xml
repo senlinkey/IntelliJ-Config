@@ -1,0 +1,36 @@
+<keymap version="1" name="Sublime Text (Mac OS X) copy" parent="Sublime Text (Mac OS X)">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="MethodOverloadSwitchUp" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>
