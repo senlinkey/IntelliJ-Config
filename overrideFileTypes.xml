@@ -5,6 +5,7 @@
     <file url="file://$USER_HOME$/www/backend/binkswine/rd2nestjs/nest-like-mi/views/admin/manager/edit.ejs" value="EJS" />
     <file url="file://$USER_HOME$/www/backend/binkswine/rd2nestjs/nest-like-mi/views/admin/manager/index.ejs" value="EJS" />
     <file url="file://$USER_HOME$/www/backend/binkswine/rd2nestjs/nest-like-mi/views/admin/public/error.ejs" value="EJS" />
+    <file url="file://$USER_HOME$/www/backend/binkswine/rd2nestjs/nest-like-mi/views/admin/public/page-nav.ejs" value="EJS" />
     <file url="file://$USER_HOME$/www/backend/binkswine/rd2nestjs/nest-like-mi/views/admin/public/success.ejs" value="EJS" />
   </component>
 </application>
