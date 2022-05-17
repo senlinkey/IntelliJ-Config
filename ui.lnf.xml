@@ -44,6 +44,8 @@
   </component>
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="843" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
