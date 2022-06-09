@@ -1,0 +1,25 @@
+<templateSet group="Dart">
+  <template name="itar" value="for (var $INDEX$ = 0; $INDEX$ &lt; $ARRAY$.length; ++$INDEX$) {&#10;  var $VAR$ = $ARRAY$[$INDEX$];&#10;  $END$&#10;}" description="Iterate elements of array" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="dartSuggestIndexName()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="dartListVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="dartSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="soutm" value="print('$CLASS_NAME_METHOD_NAME$');$END$" description="prints the current class and method name to standard out" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME_METHOD_NAME" expression="" defaultValue="dartClassNameMethodName" alwaysStopAt="false" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="jsmodel" value="import 'package:json_annotation/json_annotation.dart';&#10;&#10;part '$FILE_NAME$.g.dart';&#10;&#10;@JsonSerializable()&#10;class $MODEL$ {&#10;    $END$&#10;    $MODEL$();&#10;    factory $MODEL$.fromJson(Map&lt;String,dynamic&gt; json) =&gt; _$$$MODEL$FromJson(json);&#10;    Map&lt;String, dynamic&gt; toJson() =&gt; _$$$MODEL$ToJson(this);&#10;}" description="JSON Model" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

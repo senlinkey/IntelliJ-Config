@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="528" />
+    <option name="newTranslationDialogY" value="401" />
+    <histories>
+      <item value="文字" />
+      <item value="restore" />
+      <item value="single Quote" />
+      <item value="singleQuote" />
+      <item value="arrow Parens" />
+      <item value="arrowParens" />
+      <item value="arro wParens" />
+      <item value="discount amount" />
+      <item value="discount amount&#10;" />
+      <item value="discount_amount" />
+      <item value="cleanerable" />
+      <item value="无效" />
+      <item value="loose-equality operator" />
+      <item value="and loose-equality operator" />
+      <item value="Try updating your pubspec.yaml to set the minimum SDK constraint to 2.10.0 or higher, and running 'pub get'." />
+      <item value="thumbnai Url" />
+      <item value="non constant identifier names" />
+      <item value="non constant identifier_names" />
+      <item value="non constant_identifier_names" />
+      <item value="non_constant_identifier_names" />
+      <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item." />
+      <item value="Code With Me is a new service created by JetBrains for collaborative development and pair programming. It enables you to share the currently opened project in your IDE with others, and work on it together in real time.&#10;Key features:" />
+      <item value="value" />
+      <item value="_radio" />
+      <item value="测试" />
+      <item value="Radio" />
+      <item value="flutter: false" />
+      <item value="Bean Factory" />
+      <item value="Error: Module not specified" />
+      <item value="Unknown DataSource property: passowrd" />
+      <item value="user" />
+      <item value="Sql Session" />
+      <item value="替换" />
+      <item value="field" />
+      <item value="split" />
+      <item value="括号" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="ESPERANTO" value="9" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1632651669200" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5959d96e40ce0079" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
