@@ -4,7 +4,7 @@
     <property name="created">2022-07-28T16:16:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2022-07-28T17:12:06</property>
+    <property name="modified">2022-08-04T11:36:57</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -492,8 +492,8 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff92bb" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ff00" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
