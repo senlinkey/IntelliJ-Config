@@ -18,6 +18,10 @@
           <option name="url" value="http://gitlab.nlsaas.com" />
           <option name="userName" value="hongsenlin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-athena.newlink.com" />
+          <option name="userName" value="hongsenlin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
