@@ -31,7 +31,7 @@
     <option name="lastViewedProviderKeyId" value="JavaScriptUsages" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" useCustomColors="true" pattern="\b(todo|fixme|tips)\b.*">
+    <pattern icon="important" useCustomColors="true" pattern="\b(todo|fixme|tips)\b.*">
       <option name="FOREGROUND" value="ffffff" />
       <option name="BACKGROUND" value="ff6600" />
       <option name="FONT_TYPE" value="1" />
