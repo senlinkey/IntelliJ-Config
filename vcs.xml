@@ -22,6 +22,10 @@
           <option name="url" value="http://gitlab-athena.newlink.com" />
           <option name="userName" value="hongsenlin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://e.coding.net" />
+          <option name="userName" value="senlin_hong@lebo.cn" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
