@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="xxx.ts" type="AUTO_DETECTED" />
       <mapping pattern="10_big_int_sum" type="AUTO_DETECTED" />
+      <mapping pattern="xxx" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
